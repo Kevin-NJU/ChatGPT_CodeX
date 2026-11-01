@@ -4,7 +4,7 @@
 
 ## 当前阶段与正式入口
 
-首版基础内容已编写；交付与 Git 同步的实际状态见 [T001](TASK_LOG.md#t001)。正文以 [README](../README.md) 为入口，机制见 [AGENTS](../AGENTS.md)，检查依据见 [VALIDATION](VALIDATION.md)。
+首版已完成并通过文档结构检查，已推送工作分支并创建 [PR #1](https://github.com/Kevin-NJU/ChatGPT_CodeX/pull/1)，尚未合并；具体 Git 结果见 [T001](TASK_LOG.md#t001)。正文以 [README](../README.md) 为入口，机制见 [AGENTS](../AGENTS.md)，检查依据见 [VALIDATION](VALIDATION.md)。
 
 已有九章基础指南、九份可复制提示词、六份文件/日志模板、三个教学演练及一个本库实际案例；官方功能按 2026-11-01 访问材料组织，未将文档核验写成账号界面实测。
 
