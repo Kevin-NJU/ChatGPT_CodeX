@@ -1,6 +1,6 @@
 # Vocabulary Tracking
 
-[items.csv](items.csv) 当前只有表头；真实词汇练习后才建条目。完整字段见 [DATA_MODEL](../DATA_MODEL.md)。追踪单位是词/词组的具体义项和词性，不是单个词形的永久“会/不会”。
+[items.csv](items.csv) 保存有真实练习证据的条目；Day 1 已记录 address。用户问过、已解释但尚未独立检索的 recap、batch、vague、prose、fits、wrap up 和时态标签集中在 [Day 2 前复习清单](../reviews/day1-before-day2.md)，已通过原任务加入队列；不是遗漏，也不填造掌握层级或最近练习日。完整字段见 [DATA_MODEL](../DATA_MODEL.md)。追踪单位是词/词组的具体义项和词性，不是单个词形的永久“会/不会”。
 
 | 层级 | 本次任务能支持的描述 | 需要的证据 |
 | --- | --- | --- |

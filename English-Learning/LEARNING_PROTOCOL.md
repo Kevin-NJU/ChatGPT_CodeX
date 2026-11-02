@@ -5,6 +5,7 @@
 ## A. 开始学习日与课程安排
 
 1. 按 [AGENTS](AGENTS.md) 恢复上下文，检查 `STATE.md`、当前计划、未完成题与到期队列。缺失文件或证据冲突先处理，不能从聊天记忆推测。
+   用户当前偏好：在 Day 2 诊断前先复习 [Day 1 清单](reviews/day1-before-day2.md)。先确认是否已自助复习、哪些仍不确定；互动复习按预算进行，之后的相关诊断注明已复习，不能当全新基线。清单存在不表示复习已完成。
 2. 问 **How much time do you have for English today?**。同一学习日已有预算不重复问；可以确认剩余时间。学习日使用 `Asia/Shanghai`，预算不是实际耗时。
 3. 查看 `reviews/queue.csv` 的 `scheduled` 且 `due_on <= today` 条目，优先近期错误、上次失败及逾期项；预算不够可选择关键几项，其余保留逾期，不标为失败或完成。诊断初期空队列无需复习；为保护独立基线，先测再教。
 4. 展示五项简短计划：**Today’s Goal / Review Tasks / Main Practice / Estimated Time / Expected Outcome**，说明 Accuracy 或 Fluency 模式及预计反馈点；允许用户调整。
