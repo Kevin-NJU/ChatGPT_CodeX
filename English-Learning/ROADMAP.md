@@ -5,7 +5,7 @@
 | Phase | 目标与产物 | 进入 / 完成条件 | 当前状态 |
 | --- | --- | --- | --- |
 | 0 · Project Initialization | 规则、模板、空数据表、状态恢复及检查 | 文件与一致性检查完成，保留本地成果 | complete |
-| 1 · Initial English Assessment | 两个学习日的真实原答、评分依据、初始报告 | Day 1 → 另一学习日 Day 2；先等用户启动 | ready, not started |
+| 1 · Initial English Assessment | 两个学习日的真实原答、评分依据、初始报告 | Day 1 → 另一学习日 Day 2；分别以实际任务证据推进 | Day 1 completed（2026-11-03）；等待 Day 2，完整报告未生成 |
 | 2 · Personalized Learning Plan | 有证据的优先级、时间变体、复习与复查触发 | 两天诊断完成，报告区分确定与待验证项；用户可调整计划 | blocked by assessment |
 | 3 · Daily Learning and Continuous Improvement | 日常互动、间隔复习、约 7 个实际学习日回顾 | 按真实表现迭代，不锁定题量 | not started |
 | 4 · Long-term Academic & Professional English | 教材/论文、专业表达、学术写作及真实交流 | 六级后与用户确认需求，逐步迁移而非自动全量切换 | future |

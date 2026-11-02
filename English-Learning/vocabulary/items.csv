@@ -1,1 +1,2 @@
 vocab_id,lemma,pos,sense,collocations,example_sentence,original_error,level,status,first_seen,last_practiced,review_id,evidence_ref
+VOC-000001,address,verb,give attention to / deal with an issue or concern,address a concern; address a problem; address an issue,The teacher addressed the problems in my assignments.,Teacher addressed my assignments submitted last week.,L1,learning,2026-11-03,2026-11-03,REV-000001,sessions/2026/11/2026-11-03.md#ses-20261103-01-a001

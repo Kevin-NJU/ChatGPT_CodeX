@@ -1,1 +1,2 @@
 session_id,date,phase,status,available_minutes,actual_minutes,actual_time_source,learning_activity,record_ref
+SES-20261103-01,2026-11-03,initial_day1,completed,20,,unknown,yes,sessions/2026/11/2026-11-03.md#ses-20261103-01

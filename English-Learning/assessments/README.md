@@ -1,6 +1,6 @@
 # Assessments
 
-当前只有[首次诊断方案](initial-assessment.md)，预留 `ASM-000001`；没有结果、答卷、报告或等级。
+首次评估 `ASM-000001` 按[诊断方案](initial-assessment.md)执行；Day 1 已完成，真实证据与边界见[每日总结](../sessions/2026/11/2026-11-03.md#day1-summary)。Day 2 尚未开始，没有完整初始报告、总体等级或详细个人计划。当前恢复位置见 [STATE](../STATE.md)。
 
 - 首次诊断原始交互保存在对应学习日文件，`STATE.md` 保存当前进度。方案不重复维护另一份动态状态。
 - 两天完成后用[报告模板](../templates/assessment-report.md)生成 `initial-report.md`；未完成时不得创建声称已完成的正式报告。

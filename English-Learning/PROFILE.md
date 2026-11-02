@@ -1,6 +1,6 @@
 # Learner Profile
 
-更新：2026-11-03 · 来源：用户在初始化任务中提供的背景和偏好。以下自述尚未接受本系统诊断。
+更新：2026-11-03 · 自述来源为初始化任务；以下背景保留为当时的自述，Day 1 观察另列于能力画像，不用测评改写原始自述。
 
 ## 自述信息（self-reported）
 
@@ -25,9 +25,9 @@
 
 | Module | 课程状态 | 测评状态 | 已观测证据与结论 |
 | --- | --- | --- | --- |
-| Vocabulary | active | not assessed | 无真实答题数据；识别与主动使用差距待测 |
-| Grammar | active | not assessed | 错误类型、系统性及迁移能力待测 |
-| Reading | active | not assessed | WPM、理解准确率和障碍来源未知 |
+| Vocabulary | active | partially assessed | 2026-11-03 [A001](sessions/2026/11/2026-11-03.md#ses-20261103-01-a001)：make a decision 首答正确；address 释义接近但不够精确、造句对象较模糊，暂记已测义项 L1/低置信，流畅度未知。未报告帮助，未核验外部工具使用；不足以判断整体词汇水平 |
+| Grammar | active | partially assessed | 2026-11-03 [A002](sessions/2026/11/2026-11-03.md#ses-20261103-01-a002) 三类任务及 [A003](sessions/2026/11/2026-11-03.md#ses-20261103-01-a003) 原创 because 句均实现当次目标（各 2/2）；样本有限，不等于全面掌握。附带自由提问的 do/does 和 A001 teacher 限定词问题各一次，不认定系统性模式。小写 i、Beacause 拼写与 wanna 语域另作轻量反馈；时态标签需解释但不能据此否定其已正确应用简单过去时 |
+| Reading | active | partially assessed | 2026-11-03 [A004 计时](sessions/2026/11/2026-11-03.md#ses-20261103-01-a004)及 [A005 理解](sessions/2026/11/2026-11-03.md#ses-20261103-01-a005)：188 词/131 自报秒=86.1 WPM，客观题 3/3，自报无中断/回看/帮助。[A006](sessions/2026/11/2026-11-03.md#ses-20261103-01-a006) 指代 2/2、改述 1/2：rarely checked 改成 unfamiliar 并加入因果确定性，可能涉及理解或英语组织，原因待验证。Day 1 已完成但样本有限，不推总体等级或趋势 |
 | Writing | active | not assessed | 准确性、组织、自然度和效率未知 |
 | Translation | active | not assessed | 意义保真、句法组织和地道性未知 |
 | Listening | inactive | not assessed | 按用户要求不安排；缺数据不是能力不足 |

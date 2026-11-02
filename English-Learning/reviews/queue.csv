@@ -1,1 +1,9 @@
 review_id,target_type,target_id,status,created_on,last_reviewed,due_on,interval_days,success_streak,last_outcome,evidence_ref
+REV-000001,vocabulary,VOC-000001,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a001
+REV-000002,error,ERR-000001,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a001
+REV-000003,task,SES-20261103-01-T001,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a001
+REV-000004,error,ERR-000002,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a002
+REV-000005,task,SES-20261103-01-T002,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a002
+REV-000006,task,SES-20261103-01-T003,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a003
+REV-000007,error,ERR-000003,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a006
+REV-000008,task,SES-20261103-01-T005,scheduled,2026-11-03,,2026-11-04,1,0,,sessions/2026/11/2026-11-03.md#ses-20261103-01-a006
