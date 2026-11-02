@@ -1,0 +1,40 @@
+# Learner Profile
+
+更新：2026-11-03 · 来源：用户在初始化任务中提供的背景和偏好。以下自述尚未接受本系统诊断。
+
+## 自述信息（self-reported）
+
+| 项目 | 用户提供的信息 | 证据边界 |
+| --- | --- | --- |
+| 既往成绩 | 大学英语四级约 550 分 | 用户自述，未核验证书；不据此换算其他考试/等级 |
+| 词汇 | 有语感，基础不够扎实；常认识词形却不清楚准确含义、搭配、语境与用法 | 待通过识别、理解和主动输出分别观察 |
+| 语法与输出 | 自己组织句子时容易出现语法错误 | 具体类型、频率及原因未测 |
+| 阅读 | 感觉阅读较慢，复杂句可能存在理解障碍 | 尚无词数、耗时和理解正确率数据 |
+| 学习习惯 | 有完美主义倾向，反复检查细节可能影响效率 | 是自述学习倾向，不是临床诊断 |
+| 专业方向 | 集成电路、半导体物理、自旋电子学 | 用于未来语料选择，不代表英语术语掌握程度 |
+
+## 已确认的目标与偏好
+
+- 短期：2026 年 12 月参加 CET-6，同时提升综合英语；具体考试日期未核验，不推定日期、剩余天数或目标分数。
+- 长期：Academic Reading、Technical English、Academic Writing、Academic Communication、Everyday English，未来按需启用听说。通用基础先行，CMOS、MOSFET、Spin-Orbit Torque、Magnetic Tunnel Junction 等仅是未来语料示例。
+- English-first Teaching；复杂概念可中文辅助。先计划、小批互动、反馈、保存，不一次倾倒所有题与答案。
+- 每日时间不固定；诊断愿意安排两个学习日，各约 30–45 分钟，可调整。此意愿不是某个具体学习日已经确认的预算。
+- 保留错误与改写过程；Accuracy / Fluency 分开，使用修改次数和时间边界防止停滞。
+
+## 能力画像（assessment-based）
+
+| Module | 课程状态 | 测评状态 | 已观测证据与结论 |
+| --- | --- | --- | --- |
+| Vocabulary | active | not assessed | 无真实答题数据；识别与主动使用差距待测 |
+| Grammar | active | not assessed | 错误类型、系统性及迁移能力待测 |
+| Reading | active | not assessed | WPM、理解准确率和障碍来源未知 |
+| Writing | active | not assessed | 准确性、组织、自然度和效率未知 |
+| Translation | active | not assessed | 意义保真、句法组织和地道性未知 |
+| Listening | inactive | not assessed | 按用户要求不安排；缺数据不是能力不足 |
+| Speaking | inactive | not assessed | 按用户要求不安排；缺数据不是能力不足 |
+
+没有总体 CEFR 等级或 CET-6 预测分。`active` 表示可纳入当前教学范围，**不表示已测或已掌握**。
+
+## 更新规则
+
+真实证据出现后，在对应模块注明日期、题目/attempt 链接、样本范围、是否独立作答、置信程度和待验证点。自述与测评不一致时并列保留，解释可能的任务条件差异；不覆盖原始自述，不把单题表现推广成全模块结论。浓缩结论指向[详细记录](sessions/README.md)或正式报告。
