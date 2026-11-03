@@ -1,0 +1,2 @@
+reading_id,session_id,material_id,mode,word_count,reading_seconds,timing_source,correct,scored,assistance,evidence_ref
+RDG-000001,SES-20261103-01,MAT-000001,baseline,188,131,learner_reported,3,3,none,sessions/2026/11/2026-11-03.md#ses-20261103-01-a005
