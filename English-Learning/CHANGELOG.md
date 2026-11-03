@@ -39,3 +39,11 @@
 - 新增 reviews/day1-before-day2.md，按来源汇总释义请求、时态区别、address、主要错误、间接问句及拼写提醒，并区分可接受表达和已答对结构；通过现有八项 REV ID 对应原证据，不重复排程或虚构复习结果。
 - 更新 STATE、PROFILE、LEARNING_PROTOCOL、README、reviews/vocabulary 入口，并在当日记录追加行政授权检查点；不新增学习 attempt、学习日、成绩或已掌握记录。
 - 发布方式：只对 feat/pels-initialization 作普通推送，将今日原答/反馈和复习资料加入现有 PR #2，并重写 PR 描述反映最终范围；不直接合并 main，不发布云环境。结构/字段/引用、空白与暂存范围检查后提交，远程结果另以实际 head 核验。
+
+## 2026-11-03 · PR #2 合并到 main
+
+- 用户明确授权执行合并，要求仅在存在影响执行的歧义时先询问。检查未发现此类歧义或冲突，采用普通 merge 保留原始提交，不强推、不删除源分支。
+- 合并前：PR head 为 `a05085cda2e657e6e0f5c64aed5c1150ed720556`，base main 为 `075a1807ce0ce4bf71056c3f18f6fe26d4206099`，mergeable=true / clean。远端 33 个变更文件全部为 English-Learning/ 内新增文件；无范围外变更。没有配置状态检查或 check runs，不能表述为 CI 已通过；本地文档/数据校验及空白检查通过。
+- [PR #2](https://github.com/Kevin-NJU/ChatGPT_CodeX/pull/2) 已合并，合并提交 `3ae25632f456513cc96f006e2c3a6c156e5e38fd`。本地创建并切换到跟踪 origin/main 的 main，无重置既有工作。
+- 合并后验证：English-Learning 的 Git tree 与已核对的 PR head 完全一致；两个已有项目 tree 与合并前相同；25 份 Markdown、123 处行内链接及七张 CSV 校验通过。
+- 维护更新仅涉及 README、STATE 和本日志，记录 main 已成为维护分支及实际合并结果；本次不新增学习活动，不修改课程原答、测评数据或复习结果。Day 1 completed、Day 2 not_started；源分支保留，未发布云环境。

@@ -6,6 +6,8 @@ PELS 由学习者与 Codex 共同维护，兼顾英语教师、学习分析师�
 
 当前已完成 **Phase 0** 和首次诊断 **Day 1（2026-11-03）**，正在等待另一个学习日的 Day 2。真实结果与恢复入口以 [STATE](STATE.md) 为准；完整初始报告与个性化详细计划尚未生成。Vocabulary、Grammar、Reading、Writing、Translation 为当前范围；Listening、Speaking 均为 `inactive`、`not assessed`，仅在学习者明确要求后开启。
 
+**主维护分支：main。** [PR #2](https://github.com/Kevin-NJU/ChatGPT_CodeX/pull/2) 已于 2026-11-03 经用户授权合并，main 包含系统、Day 1 原始记录及 Day 2 前复习清单；无需再为获取这些内容切换到初始化分支。沿用当前任务的现有检出，先检查本地与远端实际状态。
+
 ## 开始与恢复
 
 在全新的 Codex 对话中提供仓库并输入：
